@@ -1,0 +1,9 @@
+Important git commands:
+
+    git clone + url (ssh of the repositry on github)
+    git remote -v --> displays the url of the repositry I have cloned
+    git add + file name 
+    git status 
+    git commit -m "type a message"
+    git log
+    
